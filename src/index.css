@@ -1,0 +1,17 @@
+body {
+    background-color: #FFCC00;
+    padding: 20px;
+    margin: 0;
+  }
+h1, ul{
+    font-family: sans-serif;
+}
+.content {
+    background-color: #FFF;
+    padding: 20px;
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+ 
